@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+    "settings": {
+      "documentationRules": {
+        "companyName": "HelloWorld",
+        "copyrightText": "Copyright (c) {companyName}. All rights reserved.",
+        "documentInternalElements": false,
+        "documentPrivateElements": false,
+        "documentProtectedElements": false
+      },
+      "orderingRules": {
+        "usingDirectivesPlacement": "outsideNamespace"
+      }
+    }
+  }

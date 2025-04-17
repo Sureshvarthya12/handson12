@@ -1,0 +1,9 @@
+PROJECT_NAME           = "HelloWorld"
+OUTPUT_DIRECTORY       = ./docs
+INPUT                  = ./Program.cs
+RECURSIVE              = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = NO
+FILE_PATTERNS          = *.cs
